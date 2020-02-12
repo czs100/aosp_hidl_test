@@ -1,0 +1,6 @@
+package android.hardware.helloworld@1.0;
+
+enum HelloTest : uint8_t {
+    V_TEST1 = 0,
+    V_TEST2 = 1,
+};

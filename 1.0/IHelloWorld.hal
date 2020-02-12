@@ -1,0 +1,7 @@
+package android.hardware.helloworld@1.0;
+
+interface IHelloWorld {
+    justTest(string name) generates (string result, HelloTest value);
+
+    justTest1(HelloTest name);
+};
