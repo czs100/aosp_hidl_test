@@ -18,7 +18,6 @@ cc_library_shared {
     ],
     shared_libs: [
         "libhidlbase",
-        "libhidltransport",
         "libutils",
         "android.hardware.helloworld@1.0",
         "liblog",
